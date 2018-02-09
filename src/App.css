@@ -1,0 +1,145 @@
+.gamePage {
+  background-color: lightblue;
+  padding: 100px 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+.bigBox{
+  height: 606px;
+  width: 606px;
+  margin: 0 auto;
+  background-color: lightblue;
+}
+
+#box1{
+  height: 201px;
+  width: 201px;
+  border: 1px solid black;
+  border-top: none;
+  border-left: none;
+  text-align:center;
+  vertical-align: center;
+  line-height: 200px;
+  font-size: 100px;
+}
+
+#box2{
+  height: 201px;
+  width: 201px;
+  border: 1px solid black;
+  border-left: none;
+  vertical-align: center;
+  line-height: 200px;
+  font-size: 100px;
+  text-align:center;
+}
+
+#box3{
+  height: 201px;
+  width: 201px;
+  border: 1px solid black;
+  border-bottom: none;
+  border-left: none;
+  vertical-align: center;
+  line-height: 200px;
+  font-size: 100px;
+  text-align:center;
+}
+
+#box4{
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  margin-left: 202px;
+  margin-top: -606px;
+  border-top: none;
+  vertical-align: center;
+  line-height: 200px;
+  font-size: 100px;
+  text-align:center;
+
+}
+
+#box5{
+  height: 201px;
+  width: 200px;
+  border: 1px solid black;
+  margin-left: 202px;
+  vertical-align: center;
+  line-height: 200px;
+  font-size: 100px;
+  text-align:center;
+}
+
+#box6{
+  height: 201px;
+  width: 200px;
+  border: 1px solid black;
+  margin-left: 202px;
+  border-bottom: none;
+  vertical-align: center;
+  line-height: 200px;
+  font-size: 100px;
+  text-align:center;
+}
+
+#box7{
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  margin-left: 404px;
+  margin-top: -606px;
+  border-top: none;
+  border-right: none;
+  vertical-align: center;
+  line-height: 200px;
+  font-size: 100px;
+  text-align:center;
+}
+
+#box8{
+  height: 201px;
+  width: 200px;
+  border: 1px solid black;
+  margin-left: 404px;
+  border-right: none;
+  vertical-align: center;
+  line-height: 200px;
+  font-size: 100px;
+  text-align:center;
+}
+#box9{
+  height: 201px;
+  width: 201px;
+  border: 1px solid black;
+  margin-left: 404px;
+  border-right: none;
+  border-bottom:none;
+  vertical-align: center;
+  line-height: 200px;
+  font-size: 100px;
+  text-align:center;
+}
+
+.displayContents{
+  width: 100vw;
+  text-align: center;
+}
+
+#textDisplay{
+  width: 100vw;
+  text-align: center;
+  color: #8B2500;
+}
+
+#reset{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
